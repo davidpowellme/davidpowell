@@ -50,6 +50,6 @@ Life isn't easy at all. This course isn't easy at all.
 The problems are a hell of a lot better, though.
 
 ##Interested in learning to code? These resources can help.##
-*[Codecademy](http://codecademy.com)
-*[Markdown Tutorial](http://markdowntutorial.com)
-*[Try Github](https://try.github.io/levels/1/challenges/1)
+* [Codecademy](http://codecademy.com)
+* [Markdown Tutorial](http://markdowntutorial.com)
+* [Try Github](https://try.github.io/levels/1/challenges/1)
